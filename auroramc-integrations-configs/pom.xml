@@ -26,13 +26,13 @@
       <artifactId>okaeri-configs-core</artifactId>
       <groupId>eu.okaeri</groupId>
       <scope>provided</scope>
-      <version>5.0.2</version>
+      <version>5.0.3</version>
     </dependency>
     <dependency>
       <artifactId>okaeri-configs-serdes-commons</artifactId>
       <groupId>eu.okaeri</groupId>
       <scope>compile</scope>
-      <version>5.0.2</version>
+      <version>5.0.3</version>
     </dependency>
   </dependencies>
 
